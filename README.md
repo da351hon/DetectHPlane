@@ -22,3 +22,4 @@ SceneKit：簡単に3Dゲームを作ることができるフレームワー�
 [変更内容](https://github.com/da351hon/DetectHPlane/commit/4280be1f1c8aea9408daf1aa038f70411c12b231)
 
 6. 実行。
+<img src="images/detect_hplane.png" width="200"/>  
