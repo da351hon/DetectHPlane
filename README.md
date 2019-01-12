@@ -16,3 +16,4 @@ SceneKit：簡単に3Dゲームを作ることができるフレームワー�
 <img src="images/detect_hplane_initial_run_ship.png" width="200"/>  
 
 4. 飛行機を削除し、水平面認識指定を追加。
+[変更内容](https://github.com/da351hon/DetectHPlane/commit/2a964fc8b8b52a165174da7134336c1e415335cf)
