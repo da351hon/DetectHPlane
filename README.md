@@ -12,6 +12,7 @@ SceneKit：簡単に3Dゲームを作ることができるフレームワー�
 
 3. 一旦、実行してみる。iPhone/iPadを接続し、実行ボタンを押下。  
 <img src="images/detect_hplane_initial_run.png" width="480"/>  
-カメラ飛行機が表示される。  
+カメラスルーに飛行機が表示される。  
 <img src="images/detect_hplane_initial_run_ship.png" width="200"/>  
 
+4. 飛行機を削除し、水平面認識指定を追加。
